@@ -3,6 +3,10 @@
 **RedLight** is a minimalist Android app that displays a full-screen red screen with an adjustable brightness slider and an elegant close button.  
 Designed for use as a non-intrusive night light, screen warmer, or for relaxation, it respects privacy and avoids any network access or background tracking.
 
+By emitting red light only, it helps illuminate dark environments at night without disrupting the body’s natural melatonin production — a key factor in maintaining healthy circadian rhythms and falling back asleep more easily.  
+This makes it especially useful during brief moments of nighttime wakefulness when one needs to navigate their surroundings without fully waking up or overstimulating the senses.  
+It is also ideal for situations where one needs to quietly re-enter a shared bedroom — for instance, to join a sleeping partner — without waking them or straining their own eyes.
+
 ---
 
 ## 📱 Features
