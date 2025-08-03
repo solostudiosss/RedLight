@@ -33,7 +33,8 @@ It is also ideal for situations where one needs to quietly re-enter a shared bed
 
 ## 📦 Installation
 
-You can build the APK from source using Android Studio (recommended) or download the latest `app-debug.apk` from the [Releases](#) section (if added).
+You can build the APK from source using Android Studio (recommended) or download the latest prebuilt APK (e.g. `RedLight_v0.10.1.apk`) from the [Releases](https://github.com/solostudiosss/RedLight/releases) section.
+
 
 To sideload:
 1. Enable *Install from unknown sources* on your Android device.
