@@ -1,11 +1,20 @@
 # RedLight
 
-**RedLight** is a minimalist Android app that displays a full-screen red screen with an adjustable brightness slider and an elegant close button.  
-Designed for use as a non-intrusive night light, screen warmer, or for relaxation, it respects privacy and avoids any network access or background tracking.
+**RedLight** is a minimalist flashlight app that uses a full-screen red display instead of turning on the bright, blinding camera flash.  
+It is designed for night-time use where discretion, eye comfort, and sleep preservation are essential.
 
-By emitting red light only, it helps illuminate dark environments at night without disrupting the body’s natural melatonin production — a key factor in maintaining healthy circadian rhythms and falling back asleep more easily.  
-This makes it especially useful during brief moments of nighttime wakefulness when one needs to navigate their surroundings without fully waking up or overstimulating the senses.  
-It is also ideal for situations where one needs to quietly re-enter a shared bedroom — for instance, to join a sleeping partner — without waking them or straining their own eyes.
+Exposure to bright white or blue-tinted light at night can suppress the body's production of melatonin – a hormone crucial for healthy sleep and regulating the circadian rhythm.  
+Red light, by contrast, has the gentlest impact on these natural cycles, allowing one to see without fully waking up or disrupting the body’s internal clock.
+
+Whether returning to a shared bedroom or briefly stepping into the hallway during the night, RedLight provides gentle illumination without harsh brightness or intrusive glare.
+
+The app includes a smooth brightness slider that remembers your last setting, opening precisely as you left it – soft or strong.  
+The display remains a deep, uninterrupted red, with no interface clutter, no distractions, and no unnecessary elements.
+
+RedLight is completely free to use – with no ads, no permissions, no network access, and no data collection of any kind.  
+All settings are stored locally. The app does not connect to the internet or communicate with any external servers.
+
+Simple. Silent. Respectful of privacy and sleep.
 
 ---
 
@@ -33,7 +42,7 @@ It is also ideal for situations where one needs to quietly re-enter a shared bed
 
 ## 📦 Installation
 
-You can build the APK from source using Android Studio (recommended) or download the latest prebuilt APK (e.g. `RedLight_v0.10.1.apk`) from the [Releases](https://github.com/solostudiosss/RedLight/releases) section.
+You can build the APK from source using Android Studio (recommended) or download the latest prebuilt APK (e.g. `RedLight_v0.10.2.apk`) from the [Releases](https://github.com/solostudiosss/RedLight/releases) section.
 
 
 To sideload:
