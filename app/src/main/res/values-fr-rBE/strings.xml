@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">RedLight</string>
+    <string name="brightness_label">Luminosité : %1$d%%</string>
+    <string name="tip_message">Astuce : Glissez votre doigt le long du bord gauche pour parcourir les teintes de rouge, du plus éclatant au plus sombre. Double-tapez ailleurs pour réinitialiser.</string>
+    <string name="close">Fermer</string>
+    <string name="show_tip">Afficher l’astuce</string>
+    <string name="buy_me_a_beer">Offre-moi une bière 🍺</string>
+</resources>

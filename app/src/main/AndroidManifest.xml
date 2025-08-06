@@ -5,6 +5,7 @@
     <uses-permission android:name="android.permission.VIBRATE" />
     <application
         android:label="RedLight"
+        android:icon="@mipmap/ic_launcher"
         android:theme="@style/Theme.AppCompat.Light.NoActionBar"
         tools:ignore="MissingApplicationIcon">
 

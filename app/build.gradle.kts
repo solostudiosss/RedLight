@@ -13,12 +13,22 @@ android {
         applicationId = "com.solostudios.redlight"
         minSdk = 31
         targetSdk = 36
-        versionCode = 1
-        versionName = "0.1"
+        versionCode = 11000
+        versionName = "0.11.0"
+    }
+
+    signingConfigs {
+        create("release") {
+            storeFile = file("release-key.jks")
+            storePassword = "YOUR_KEYSTORE_PASSWORD"
+            keyAlias = "redlight-key"
+            keyPassword = "YOUR_KEY_PASSWORD"
+        }
     }
 
     buildTypes {
         release {
+            signingConfig = signingConfigs.getByName("release")
             isMinifyEnabled = false
             proguardFiles(
                 getDefaultProguardFile("proguard-android-optimize.txt"),
@@ -26,6 +36,7 @@ android {
             )
         }
     }
+
 
     compileOptions {
         sourceCompatibility = JavaVersion.VERSION_21
